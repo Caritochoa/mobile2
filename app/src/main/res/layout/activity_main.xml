@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    android:background="@color/colorPrimary"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="210dp"
+        android:text="UMB"
+        android:textSize="30sp"
+        android:layout_centerHorizontal = "true"
+        android:textColor="#ffffff" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Carolina Ochoa"
+        android:textColor="#ffffff"
+        android:textSize="30sp"
+        android:layout_centerHorizontal = "true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="150dp"
+        android:text="7mo Semestre"
+        android:textColor="#ffffff"
+        android:textSize="30sp"
+        android:layout_centerHorizontal = "true" />
+
+
+
+    <TextView
+        android:layout_centerHorizontal = "true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:text="Igeniería de Software"
+        android:textColor="#ffffff"
+        android:textSize="30sp"  />
+
+    <ImageView
+
+        android:layout_width = "100dp"
+        android:layout_height= "100dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/umb" />
+
+    <TextView
+        android:layout_centerHorizontal = "true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="480dp"
+        android:text="Docente"
+        android:textColor="#ffffff"
+        android:textSize="30sp"  />
+
+    <TextView
+        android:layout_centerHorizontal = "true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="580dp"
+        android:text="Jhon A. Mendez"
+        android:textColor="#ffffff"
+        android:textSize="30sp"  />
+
+
+
+
+
+
+
+</RelativeLayout>

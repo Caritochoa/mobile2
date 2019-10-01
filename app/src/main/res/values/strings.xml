@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application 2</string>
+    <string name="welcome_message">Welcome to Message Activity</string>
+    <string name="edit_message">Ingresa un mensaje</string>
+    <string name="button_label">Enviar</string>
+    <string name="enviar">Enviar</string>
+    <string name="guardar">Save</string>
+    <string name="escribe_un_mensaje">Escribe un mensaje</string>
+</resources>
